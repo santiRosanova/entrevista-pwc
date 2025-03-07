@@ -1,0 +1,201 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Description,Salary
+33,Male,Master's Degree,Sales Manager,11,Sales Manager with 11 years of experience and a degree in Master's Degree.,93360
+33,Male,Bachelor's Degree,Product Manager,11,Product Manager with 11 years of experience and a degree in Bachelor's Degree.,121657
+40,Male,Associate's Degree,HR Manager,18,HR Manager with 18 years of experience and a degree in Associate's Degree.,101954
+53,Male,Bachelor's Degree,Product Manager,31,Product Manager with 31 years of experience and a degree in Bachelor's Degree.,159962
+33,Female,Master's Degree,Data Scientist,11,Data Scientist with 11 years of experience and a degree in Master's Degree.,110481
+37,Male,Master's Degree,Marketing Specialist,15,Marketing Specialist with 15 years of experience and a degree in Master's Degree.,95986
+52,Female,Master's Degree,HR Manager,30,HR Manager with 30 years of experience and a degree in Master's Degree.,134372
+56,Female,High School,Marketing Specialist,34,Marketing Specialist with 34 years of experience and a degree in High School.,129385
+63,Male,High School,Software Engineer,41,Software Engineer with 41 years of experience and a degree in High School.,156010
+50,Male,High School,Data Scientist,28,Data Scientist with 28 years of experience and a degree in High School.,136713
+43,Female,PhD,Mechanical Engineer,21,Mechanical Engineer with 21 years of experience and a degree in PhD.,117268
+25,Male,Associate's Degree,Product Manager,3,Product Manager with 3 years of experience and a degree in Associate's Degree.,97633
+26,Male,PhD,Data Scientist,4,Data Scientist with 4 years of experience and a degree in PhD.,83824
+52,Female,PhD,Product Manager,30,Product Manager with 30 years of experience and a degree in PhD.,158210
+25,Female,Bachelor's Degree,Data Scientist,3,Data Scientist with 3 years of experience and a degree in Bachelor's Degree.,91210
+26,Female,High School,Data Scientist,4,Data Scientist with 4 years of experience and a degree in High School.,96161
+35,Female,Associate's Degree,Software Engineer,13,Software Engineer with 13 years of experience and a degree in Associate's Degree.,93267
+59,Female,Bachelor's Degree,Software Engineer,37,Software Engineer with 37 years of experience and a degree in Bachelor's Degree.,150498
+47,Male,High School,HR Manager,25,HR Manager with 25 years of experience and a degree in High School.,116843
+43,Male,High School,Financial Analyst,21,Financial Analyst with 21 years of experience and a degree in High School.,119457
+62,Male,Associate's Degree,Data Scientist,40,Data Scientist with 40 years of experience and a degree in Associate's Degree.,155664
+29,Female,Bachelor's Degree,Electrical Engineer,7,Electrical Engineer with 7 years of experience and a degree in Bachelor's Degree.,89705
+50,Female,Bachelor's Degree,Product Manager,28,Product Manager with 28 years of experience and a degree in Bachelor's Degree.,145673
+30,Female,PhD,Electrical Engineer,8,Electrical Engineer with 8 years of experience and a degree in PhD.,93919
+59,Male,Associate's Degree,Software Engineer,37,Software Engineer with 37 years of experience and a degree in Associate's Degree.,142106
+50,Female,Master's Degree,Financial Analyst,28,Financial Analyst with 28 years of experience and a degree in Master's Degree.,131458
+22,Female,High School,Data Scientist,0,Data Scientist with 0 years of experience and a degree in High School.,83778
+58,Female,High School,Product Manager,36,Product Manager with 36 years of experience and a degree in High School.,160171
+53,Female,Master's Degree,Electrical Engineer,31,Electrical Engineer with 31 years of experience and a degree in Master's Degree.,141965
+54,Female,PhD,HR Manager,32,HR Manager with 32 years of experience and a degree in PhD.,126292
+27,Male,Associate's Degree,Mechanical Engineer,5,Mechanical Engineer with 5 years of experience and a degree in Associate's Degree.,79625
+40,Female,Bachelor's Degree,Data Scientist,18,Data Scientist with 18 years of experience and a degree in Bachelor's Degree.,124511
+31,Male,Associate's Degree,HR Manager,9,HR Manager with 9 years of experience and a degree in Associate's Degree.,87292
+60,Male,PhD,HR Manager,38,HR Manager with 38 years of experience and a degree in PhD.,139221
+31,Male,Master's Degree,Sales Manager,9,Sales Manager with 9 years of experience and a degree in Master's Degree.,92296
+34,Male,Master's Degree,HR Manager,12,HR Manager with 12 years of experience and a degree in Master's Degree.,95965
+46,Male,Master's Degree,Graphic Designer,24,Graphic Designer with 24 years of experience and a degree in Master's Degree.,101016
+47,Female,Bachelor's Degree,Data Scientist,25,Data Scientist with 25 years of experience and a degree in Bachelor's Degree.,131677
+51,Male,PhD,Graphic Designer,29,Graphic Designer with 29 years of experience and a degree in PhD.,116001
+39,Female,PhD,Product Manager,17,Product Manager with 17 years of experience and a degree in PhD.,125564
+22,Male,Associate's Degree,Product Manager,0,Product Manager with 0 years of experience and a degree in Associate's Degree.,88997
+29,Male,Bachelor's Degree,HR Manager,7,HR Manager with 7 years of experience and a degree in Bachelor's Degree.,82805
+61,Female,High School,Electrical Engineer,39,Electrical Engineer with 39 years of experience and a degree in High School.,159035
+65,Male,Associate's Degree,Software Engineer,43,Software Engineer with 43 years of experience and a degree in Associate's Degree.,160796
+27,Female,PhD,Graphic Designer,5,Graphic Designer with 5 years of experience and a degree in PhD.,69454
+61,Female,High School,Sales Manager,39,Sales Manager with 39 years of experience and a degree in High School.,151571
+61,Male,PhD,Financial Analyst,39,Financial Analyst with 39 years of experience and a degree in PhD.,147293
+58,Female,PhD,Software Engineer,36,Software Engineer with 36 years of experience and a degree in PhD.,141376
+62,Female,PhD,Electrical Engineer,40,Electrical Engineer with 40 years of experience and a degree in PhD.,161667
+37,Male,PhD,Mechanical Engineer,15,Mechanical Engineer with 15 years of experience and a degree in PhD.,104267
+23,Female,Associate's Degree,Electrical Engineer,1,Electrical Engineer with 1 years of experience and a degree in Associate's Degree.,69932
+58,Female,Bachelor's Degree,Sales Manager,36,Sales Manager with 36 years of experience and a degree in Bachelor's Degree.,148843
+50,Female,Associate's Degree,Mechanical Engineer,28,Mechanical Engineer with 28 years of experience and a degree in Associate's Degree.,129756
+37,Male,Associate's Degree,Product Manager,15,Product Manager with 15 years of experience and a degree in Associate's Degree.,127036
+51,Male,Master's Degree,Marketing Specialist,29,Marketing Specialist with 29 years of experience and a degree in Master's Degree.,121697
+48,Male,Associate's Degree,Electrical Engineer,26,Electrical Engineer with 26 years of experience and a degree in Associate's Degree.,126406
+47,Male,High School,Sales Manager,25,Sales Manager with 25 years of experience and a degree in High School.,121484
+61,Male,PhD,Product Manager,39,Product Manager with 39 years of experience and a degree in PhD.,175925
+48,Male,Master's Degree,Mechanical Engineer,26,Mechanical Engineer with 26 years of experience and a degree in Master's Degree.,122143
+43,Male,High School,HR Manager,21,HR Manager with 21 years of experience and a degree in High School.,103984
+63,Male,Bachelor's Degree,Software Engineer,41,Software Engineer with 41 years of experience and a degree in Bachelor's Degree.,160412
+55,Female,Associate's Degree,Sales Manager,33,Sales Manager with 33 years of experience and a degree in Associate's Degree.,143042
+57,Male,Master's Degree,Marketing Specialist,35,Marketing Specialist with 35 years of experience and a degree in Master's Degree.,129063
+52,Female,Master's Degree,Data Scientist,30,Data Scientist with 30 years of experience and a degree in Master's Degree.,141166
+30,Male,Associate's Degree,Marketing Specialist,8,Marketing Specialist with 8 years of experience and a degree in Associate's Degree.,78468
+65,Female,Associate's Degree,HR Manager,43,HR Manager with 43 years of experience and a degree in Associate's Degree.,157111
+25,Male,Bachelor's Degree,Electrical Engineer,3,Electrical Engineer with 3 years of experience and a degree in Bachelor's Degree.,75236
+41,Male,Bachelor's Degree,HR Manager,19,HR Manager with 19 years of experience and a degree in Bachelor's Degree.,112941
+41,Male,High School,Mechanical Engineer,19,Mechanical Engineer with 19 years of experience and a degree in High School.,114813
+36,Female,Bachelor's Degree,Software Engineer,14,Software Engineer with 14 years of experience and a degree in Bachelor's Degree.,94640
+40,Male,PhD,Electrical Engineer,18,Electrical Engineer with 18 years of experience and a degree in PhD.,106367
+61,Male,PhD,Sales Manager,39,Sales Manager with 39 years of experience and a degree in PhD.,148068
+49,Male,Associate's Degree,HR Manager,27,HR Manager with 27 years of experience and a degree in Associate's Degree.,122535
+48,Male,Associate's Degree,Data Scientist,26,Data Scientist with 26 years of experience and a degree in Associate's Degree.,135359
+27,Female,Master's Degree,Electrical Engineer,5,Electrical Engineer with 5 years of experience and a degree in Master's Degree.,88430
+33,Male,Associate's Degree,Graphic Designer,11,Graphic Designer with 11 years of experience and a degree in Associate's Degree.,68124
+25,Male,Bachelor's Degree,Mechanical Engineer,3,Mechanical Engineer with 3 years of experience and a degree in Bachelor's Degree.,79742
+57,Female,High School,Product Manager,35,Product Manager with 35 years of experience and a degree in High School.,161166
+43,Female,Master's Degree,Financial Analyst,21,Financial Analyst with 21 years of experience and a degree in Master's Degree.,112551
+44,Male,High School,HR Manager,22,HR Manager with 22 years of experience and a degree in High School.,117122
+45,Female,High School,Product Manager,23,Product Manager with 23 years of experience and a degree in High School.,141589
+29,Male,High School,Data Scientist,7,Data Scientist with 7 years of experience and a degree in High School.,98662
+40,Female,PhD,Electrical Engineer,18,Electrical Engineer with 18 years of experience and a degree in PhD.,117081
+29,Male,Associate's Degree,Software Engineer,7,Software Engineer with 7 years of experience and a degree in Associate's Degree.,90263
+33,Male,Master's Degree,Mechanical Engineer,11,Mechanical Engineer with 11 years of experience and a degree in Master's Degree.,93615
+44,Male,High School,Data Scientist,22,Data Scientist with 22 years of experience and a degree in High School.,122380
+57,Female,Master's Degree,Graphic Designer,35,Graphic Designer with 35 years of experience and a degree in Master's Degree.,124501
+64,Male,Master's Degree,Graphic Designer,42,Graphic Designer with 42 years of experience and a degree in Master's Degree.,134973
+28,Male,Master's Degree,Graphic Designer,6,Graphic Designer with 6 years of experience and a degree in Master's Degree.,65874
+50,Male,High School,Electrical Engineer,28,Electrical Engineer with 28 years of experience and a degree in High School.,132577
+22,Male,PhD,Mechanical Engineer,0,Mechanical Engineer with 0 years of experience and a degree in PhD.,67774
+36,Female,High School,Data Scientist,14,Data Scientist with 14 years of experience and a degree in High School.,108951
+36,Female,Bachelor's Degree,Graphic Designer,14,Graphic Designer with 14 years of experience and a degree in Bachelor's Degree.,85426
+33,Male,Associate's Degree,Marketing Specialist,11,Marketing Specialist with 11 years of experience and a degree in Associate's Degree.,80793
+43,Male,Master's Degree,Electrical Engineer,21,Electrical Engineer with 21 years of experience and a degree in Master's Degree.,122886
+27,Male,Associate's Degree,Graphic Designer,5,Graphic Designer with 5 years of experience and a degree in Associate's Degree.,56889
+61,Male,Associate's Degree,Mechanical Engineer,39,Mechanical Engineer with 39 years of experience and a degree in Associate's Degree.,144661
+64,Male,High School,Mechanical Engineer,42,Mechanical Engineer with 42 years of experience and a degree in High School.,160037
+53,Male,Master's Degree,Software Engineer,31,Software Engineer with 31 years of experience and a degree in Master's Degree.,128377
+53,Female,Master's Degree,Software Engineer,31,Software Engineer with 31 years of experience and a degree in Master's Degree.,128675
+56,Male,Associate's Degree,Financial Analyst,34,Financial Analyst with 34 years of experience and a degree in Associate's Degree.,133401
+40,Female,High School,HR Manager,18,HR Manager with 18 years of experience and a degree in High School.,110645
+47,Male,PhD,Product Manager,25,Product Manager with 25 years of experience and a degree in PhD.,141370
+54,Female,Associate's Degree,Data Scientist,32,Data Scientist with 32 years of experience and a degree in Associate's Degree.,139823
+43,Male,Associate's Degree,Financial Analyst,21,Financial Analyst with 21 years of experience and a degree in Associate's Degree.,109472
+24,Male,Master's Degree,Data Scientist,2,Data Scientist with 2 years of experience and a degree in Master's Degree.,83097
+64,Male,Bachelor's Degree,HR Manager,42,HR Manager with 42 years of experience and a degree in Bachelor's Degree.,156732
+51,Male,Bachelor's Degree,Marketing Specialist,29,Marketing Specialist with 29 years of experience and a degree in Bachelor's Degree.,116463
+30,Male,PhD,HR Manager,8,HR Manager with 8 years of experience and a degree in PhD.,90684
+30,Male,PhD,Mechanical Engineer,8,Mechanical Engineer with 8 years of experience and a degree in PhD.,83567
+27,Male,Bachelor's Degree,Software Engineer,5,Software Engineer with 5 years of experience and a degree in Bachelor's Degree.,78129
+31,Male,Master's Degree,Software Engineer,9,Software Engineer with 9 years of experience and a degree in Master's Degree.,95055
+55,Male,PhD,Software Engineer,33,Software Engineer with 33 years of experience and a degree in PhD.,134960
+65,Female,High School,Mechanical Engineer,43,Mechanical Engineer with 43 years of experience and a degree in High School.,155501
+23,Male,Master's Degree,Electrical Engineer,1,Electrical Engineer with 1 years of experience and a degree in Master's Degree.,69908
+52,Male,Bachelor's Degree,Marketing Specialist,30,Marketing Specialist with 30 years of experience and a degree in Bachelor's Degree.,123124
+59,Male,Associate's Degree,Electrical Engineer,37,Electrical Engineer with 37 years of experience and a degree in Associate's Degree.,151429
+39,Male,PhD,Graphic Designer,17,Graphic Designer with 17 years of experience and a degree in PhD.,80481
+39,Male,Bachelor's Degree,Sales Manager,17,Sales Manager with 17 years of experience and a degree in Bachelor's Degree.,111043
+23,Male,Master's Degree,Electrical Engineer,1,Electrical Engineer with 1 years of experience and a degree in Master's Degree.,76437
+54,Male,Bachelor's Degree,HR Manager,32,HR Manager with 32 years of experience and a degree in Bachelor's Degree.,129385
+41,Female,Master's Degree,Product Manager,19,Product Manager with 19 years of experience and a degree in Master's Degree.,128916
+56,Female,PhD,Software Engineer,34,Software Engineer with 34 years of experience and a degree in PhD.,139374
+46,Male,Master's Degree,Software Engineer,24,Software Engineer with 24 years of experience and a degree in Master's Degree.,122738
+44,Female,PhD,Data Scientist,22,Data Scientist with 22 years of experience and a degree in PhD.,126363
+58,Male,High School,Software Engineer,36,Software Engineer with 36 years of experience and a degree in High School.,151645
+29,Female,Master's Degree,Graphic Designer,7,Graphic Designer with 7 years of experience and a degree in Master's Degree.,69892
+51,Male,High School,Product Manager,29,Product Manager with 29 years of experience and a degree in High School.,147777
+43,Female,PhD,Sales Manager,21,Sales Manager with 21 years of experience and a degree in PhD.,118004
+50,Female,High School,Graphic Designer,28,Graphic Designer with 28 years of experience and a degree in High School.,115024
+29,Male,Bachelor's Degree,Graphic Designer,7,Graphic Designer with 7 years of experience and a degree in Bachelor's Degree.,66151
+60,Male,High School,Marketing Specialist,38,Marketing Specialist with 38 years of experience and a degree in High School.,141950
+60,Male,High School,Graphic Designer,38,Graphic Designer with 38 years of experience and a degree in High School.,129349
+50,Male,Master's Degree,Mechanical Engineer,28,Mechanical Engineer with 28 years of experience and a degree in Master's Degree.,122325
+39,Male,High School,Product Manager,17,Product Manager with 17 years of experience and a degree in High School.,128836
+45,Female,PhD,Electrical Engineer,23,Electrical Engineer with 23 years of experience and a degree in PhD.,113943
+54,Female,High School,Product Manager,32,Product Manager with 32 years of experience and a degree in High School.,149901
+58,Male,PhD,Product Manager,36,Product Manager with 36 years of experience and a degree in PhD.,168634
+37,Male,Associate's Degree,HR Manager,15,HR Manager with 15 years of experience and a degree in Associate's Degree.,92277
+30,Male,Associate's Degree,Graphic Designer,8,Graphic Designer with 8 years of experience and a degree in Associate's Degree.,62128
+35,Male,Associate's Degree,Software Engineer,13,Software Engineer with 13 years of experience and a degree in Associate's Degree.,93222
+62,Male,High School,Sales Manager,40,Sales Manager with 40 years of experience and a degree in High School.,159569
+33,Male,Bachelor's Degree,Marketing Specialist,11,Marketing Specialist with 11 years of experience and a degree in Bachelor's Degree.,79116
+44,Male,High School,Financial Analyst,22,Financial Analyst with 22 years of experience and a degree in High School.,110550
+30,Male,High School,HR Manager,8,HR Manager with 8 years of experience and a degree in High School.,85340
+58,Male,Bachelor's Degree,Financial Analyst,36,Financial Analyst with 36 years of experience and a degree in Bachelor's Degree.,135302
+60,Male,PhD,Graphic Designer,38,Graphic Designer with 38 years of experience and a degree in PhD.,132611
+61,Male,Bachelor's Degree,Financial Analyst,39,Financial Analyst with 39 years of experience and a degree in Bachelor's Degree.,151265
+27,Female,High School,Software Engineer,5,Software Engineer with 5 years of experience and a degree in High School.,78280
+60,Male,High School,Graphic Designer,38,Graphic Designer with 38 years of experience and a degree in High School.,132780
+62,Female,Associate's Degree,Financial Analyst,40,Financial Analyst with 40 years of experience and a degree in Associate's Degree.,147397
+36,Female,Bachelor's Degree,Graphic Designer,14,Graphic Designer with 14 years of experience and a degree in Bachelor's Degree.,85246
+35,Male,High School,Electrical Engineer,13,Electrical Engineer with 13 years of experience and a degree in High School.,107434
+44,Male,PhD,Graphic Designer,22,Graphic Designer with 22 years of experience and a degree in PhD.,99018
+61,Female,Associate's Degree,Sales Manager,39,Sales Manager with 39 years of experience and a degree in Associate's Degree.,149621
+52,Female,Bachelor's Degree,Data Scientist,30,Data Scientist with 30 years of experience and a degree in Bachelor's Degree.,139668
+58,Female,Master's Degree,Graphic Designer,36,Graphic Designer with 36 years of experience and a degree in Master's Degree.,122556
+26,Female,Associate's Degree,HR Manager,4,HR Manager with 4 years of experience and a degree in Associate's Degree.,79014
+50,Male,Bachelor's Degree,Graphic Designer,28,Graphic Designer with 28 years of experience and a degree in Bachelor's Degree.,112131
+28,Female,PhD,Marketing Specialist,6,Marketing Specialist with 6 years of experience and a degree in PhD.,77645
+23,Female,Associate's Degree,Mechanical Engineer,1,Mechanical Engineer with 1 years of experience and a degree in Associate's Degree.,68111
+54,Male,PhD,HR Manager,32,HR Manager with 32 years of experience and a degree in PhD.,132239
+34,Male,Master's Degree,HR Manager,12,HR Manager with 12 years of experience and a degree in Master's Degree.,94904
+43,Male,Bachelor's Degree,Sales Manager,21,Sales Manager with 21 years of experience and a degree in Bachelor's Degree.,119917
+53,Male,High School,Electrical Engineer,31,Electrical Engineer with 31 years of experience and a degree in High School.,130730
+61,Male,Associate's Degree,Sales Manager,39,Sales Manager with 39 years of experience and a degree in Associate's Degree.,152732
+46,Female,Bachelor's Degree,Financial Analyst,24,Financial Analyst with 24 years of experience and a degree in Bachelor's Degree.,116477
+36,Male,Master's Degree,Data Scientist,14,Data Scientist with 14 years of experience and a degree in Master's Degree.,116330
+49,Male,Master's Degree,Data Scientist,27,Data Scientist with 27 years of experience and a degree in Master's Degree.,130530
+62,Male,Associate's Degree,Financial Analyst,40,Financial Analyst with 40 years of experience and a degree in Associate's Degree.,154900
+60,Male,Associate's Degree,Software Engineer,38,Software Engineer with 38 years of experience and a degree in Associate's Degree.,142437
+43,Male,PhD,Graphic Designer,21,Graphic Designer with 21 years of experience and a degree in PhD.,98910
+33,Male,PhD,Financial Analyst,11,Financial Analyst with 11 years of experience and a degree in PhD.,93441
+37,Male,PhD,Mechanical Engineer,15,Mechanical Engineer with 15 years of experience and a degree in PhD.,101489
+25,Male,High School,Financial Analyst,3,Financial Analyst with 3 years of experience and a degree in High School.,70570
+25,Male,High School,HR Manager,3,HR Manager with 3 years of experience and a degree in High School.,76532
+57,Male,Master's Degree,Electrical Engineer,35,Electrical Engineer with 35 years of experience and a degree in Master's Degree.,142026
+26,Male,Associate's Degree,Electrical Engineer,4,Electrical Engineer with 4 years of experience and a degree in Associate's Degree.,81180
+42,Female,PhD,Sales Manager,20,Sales Manager with 20 years of experience and a degree in PhD.,120701
+55,Female,PhD,Mechanical Engineer,33,Mechanical Engineer with 33 years of experience and a degree in PhD.,135639
+25,Male,Associate's Degree,Graphic Designer,3,Graphic Designer with 3 years of experience and a degree in Associate's Degree.,65822
+29,Male,High School,Sales Manager,7,Sales Manager with 7 years of experience and a degree in High School.,84860
+28,Male,Associate's Degree,Mechanical Engineer,6,Mechanical Engineer with 6 years of experience and a degree in Associate's Degree.,86972
+49,Male,Master's Degree,Financial Analyst,27,Financial Analyst with 27 years of experience and a degree in Master's Degree.,124292
+56,Male,High School,Financial Analyst,34,Financial Analyst with 34 years of experience and a degree in High School.,133131
+29,Male,High School,Sales Manager,7,Sales Manager with 7 years of experience and a degree in High School.,92795
+25,Female,High School,Mechanical Engineer,3,Mechanical Engineer with 3 years of experience and a degree in High School.,83106
+56,Male,Associate's Degree,Product Manager,34,Product Manager with 34 years of experience and a degree in Associate's Degree.,165078
+35,Male,Bachelor's Degree,Marketing Specialist,13,Marketing Specialist with 13 years of experience and a degree in Bachelor's Degree.,95288
+24,Female,Master's Degree,Financial Analyst,2,Financial Analyst with 2 years of experience and a degree in Master's Degree.,79119
+32,Female,PhD,Mechanical Engineer,10,Mechanical Engineer with 10 years of experience and a degree in PhD.,93371
+37,Female,Associate's Degree,Financial Analyst,15,Financial Analyst with 15 years of experience and a degree in Associate's Degree.,94431
+49,Male,Associate's Degree,Product Manager,27,Product Manager with 27 years of experience and a degree in Associate's Degree.,144586
+52,Female,PhD,Marketing Specialist,30,Marketing Specialist with 30 years of experience and a degree in PhD.,120359
+36,Male,Associate's Degree,Electrical Engineer,14,Electrical Engineer with 14 years of experience and a degree in Associate's Degree.,103821
+24,Male,High School,Software Engineer,2,Software Engineer with 2 years of experience and a degree in High School.,74832
+26,Female,Bachelor's Degree,Electrical Engineer,4,Electrical Engineer with 4 years of experience and a degree in Bachelor's Degree.,82611
+39,Male,Bachelor's Degree,HR Manager,17,HR Manager with 17 years of experience and a degree in Bachelor's Degree.,101896
+35,Female,Master's Degree,Marketing Specialist,13,Marketing Specialist with 13 years of experience and a degree in Master's Degree.,83887
+44,Male,PhD,Financial Analyst,22,Financial Analyst with 22 years of experience and a degree in PhD.,111964
