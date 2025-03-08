@@ -4,7 +4,6 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.dummy import DummyRegressor
 from sklearn.metrics import mean_absolute_error, root_mean_squared_error
-import numpy as np
 import os
 
 def load_dataset(file_path):
